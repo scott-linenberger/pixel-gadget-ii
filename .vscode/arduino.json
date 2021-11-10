@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbserial-015F6282",
+    "sketch": "PIXEL_GADGET_II.ino"
+}
